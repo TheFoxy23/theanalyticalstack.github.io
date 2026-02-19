@@ -743,15 +743,13 @@ p {
 }
 
 .blog-placeholder-gif {
-  position: relative;
+  display: block;
   width: min(1120px, calc(100vw - 2rem));
-  height: clamp(400px, 22vw, 250px);
-  left: 50%;
-  transform: translateX(-50%);
-  margin-inline: auto;
+  height: auto;
+  margin: 0 auto;
   border: 1px solid rgba(45, 223, 85, 0.28);
   border-radius: var(--radius);
-  overflow: hidden;
   background: #020603;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
 }
+
