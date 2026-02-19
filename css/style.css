@@ -254,6 +254,20 @@ p {
   margin-bottom: 0.6rem;
 }
 
+.card i {
+  font-size: 1.5rem !important;  /* Zoom (~24px) */
+  width: auto;
+}
+
+.card h2 {
+  margin: 0;            /* Rimuovi margini dal titolo */
+  flex-grow: 1;         /* Titolo occupa spazio residuo */
+}
+
+.twitter-card i { color: #ffffff; }      /* X/Twitter black */
+.github-card i { color: #9a9a9a; }       /* GitHub dark/black */
+.linkedin-card i { color: #0a66c2; }     /* LinkedIn official light blue */
+
 .skill-list {
   list-style: decimal-leading-zero;
   margin-left: 1.4rem;
