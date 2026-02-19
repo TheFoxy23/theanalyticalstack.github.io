@@ -1,0 +1,9 @@
+{
+  "id": "unique-post-slug",
+  "title": "Post title",
+  "description": "Short summary shown in cards and lists.",
+  "tags": ["tech", "backend"],
+  "lang": "en",
+  "content": "Write your article here. Use double line breaks between paragraphs.\n\nSecond paragraph.",
+  "publishedAt": ""
+}

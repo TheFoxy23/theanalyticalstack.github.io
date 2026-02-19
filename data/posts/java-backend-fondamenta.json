@@ -1,0 +1,9 @@
+{
+  "id": "java-backend-fondamenta",
+  "title": "Costruire fondamenta solide in un backend Java",
+  "description": "Dalle entity alle API REST: come mantenere coerenza, testabilita e chiarezza in un progetto Java.",
+  "tags": ["tech", "java", "backend"],
+  "lang": "it",
+  "content": "Quando progetto un backend Java parto sempre dal dominio, non dai controller. Se il modello dati e ambiguo, ogni layer sopra diventera fragile.\n\nSto adottando una regola semplice: prima definisco casi d'uso e confini del servizio, poi mappo DTO e endpoint. Questo riduce il rischio di API costruite intorno a strutture interne.\n\nSul lato qualita, avere test di servizio ben mirati mi permette di rifattorizzare senza paura. Meno magia, piu esplicitezza: in backend paga sempre.",
+  "publishedAt": "2026-01-20T09:10:00Z"
+}

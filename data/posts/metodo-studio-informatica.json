@@ -1,0 +1,9 @@
+{
+  "id": "metodo-studio-informatica",
+  "title": "Metodo di studio in informatica: meno ore, piu struttura",
+  "description": "Come organizzo studio teorico e pratica di coding in blocchi brevi ma consistenti.",
+  "tags": ["studio", "metodo", "universita"],
+  "lang": "it",
+  "content": "Negli ultimi mesi ho capito che accumulare ore non basta. Serve progettare la sessione con obiettivi misurabili: cosa devo capire, cosa devo implementare, cosa devo ripassare.\n\nUso blocchi da 50 minuti: 30 minuti teoria, 20 minuti applicazione pratica. Alla fine scrivo tre righe: cosa ho imparato, dove sono bloccato, quale e il prossimo passo.\n\nQuesto approccio mantiene continuita e riduce la sensazione di dispersione, soprattutto durante i periodi intensi di esami.",
+  "publishedAt": "2026-01-08T11:45:00Z"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "java-backend-fondamenta",
+    "title": "Costruire fondamenta solide in un backend Java",
+    "description": "Dalle entity alle API REST: come mantenere coerenza, testabilita e chiarezza in un progetto Java.",
+    "tags": [
+      "tech",
+      "java",
+      "backend"
+    ],
+    "lang": "it",
+    "content": "Quando progetto un backend Java parto sempre dal dominio, non dai controller. Se il modello dati e ambiguo, ogni layer sopra diventera fragile.\n\nSto adottando una regola semplice: prima definisco casi d'uso e confini del servizio, poi mappo DTO e endpoint. Questo riduce il rischio di API costruite intorno a strutture interne.\n\nSul lato qualita, avere test di servizio ben mirati mi permette di rifattorizzare senza paura. Meno magia, piu esplicitezza: in backend paga sempre.",
+    "publishedAt": "2026-01-20T09:10:00.000Z",
+    "date": "2026-01-20T09:10:00.000Z",
+    "source": "data/posts/java-backend-fondamenta.json"
+  },
+  {
+    "id": "metodo-studio-informatica",
+    "title": "Metodo di studio in informatica: meno ore, piu struttura",
+    "description": "Come organizzo studio teorico e pratica di coding in blocchi brevi ma consistenti.",
+    "tags": [
+      "studio",
+      "metodo",
+      "universita"
+    ],
+    "lang": "it",
+    "content": "Negli ultimi mesi ho capito che accumulare ore non basta. Serve progettare la sessione con obiettivi misurabili: cosa devo capire, cosa devo implementare, cosa devo ripassare.\n\nUso blocchi da 50 minuti: 30 minuti teoria, 20 minuti applicazione pratica. Alla fine scrivo tre righe: cosa ho imparato, dove sono bloccato, quale e il prossimo passo.\n\nQuesto approccio mantiene continuita e riduce la sensazione di dispersione, soprattutto durante i periodi intensi di esami.",
+    "publishedAt": "2026-01-08T11:45:00.000Z",
+    "date": "2026-01-08T11:45:00.000Z",
+    "source": "data/posts/metodo-studio-informatica.json"
+  },
+  {
+    "id": "riflessione-costanza-progresso",
+    "title": "Costanza vs intensita: una riflessione personale",
+    "description": "Perche piccoli progressi giornalieri valgono piu delle sprint occasionali.",
+    "tags": [
+      "riflessioni",
+      "crescita",
+      "personale"
+    ],
+    "lang": "it",
+    "content": "Per molto tempo ho lavorato a picchi: giornate super produttive seguite da giorni vuoti. Il risultato era un progresso instabile.\n\nOra punto su un ritmo minimo garantito: anche nei giorni peggiori faccio almeno un task tecnico piccolo ma concreto. Questo evita di perdere inerzia.\n\nLa costanza non e una scelta romantica, e una strategia. Nel lungo periodo costruisce competenza reale e fiducia nel proprio metodo.",
+    "publishedAt": "2025-12-18T18:30:00.000Z",
+    "date": "2025-12-18T18:30:00.000Z",
+    "source": "data/posts/riflessione-costanza-progresso.json"
+  }
+]
